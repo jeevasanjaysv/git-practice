@@ -1,1 +1,3 @@
-login feaature
+login feature
+registration feature added 
+Oauth athorization also added 
